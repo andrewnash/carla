@@ -17,6 +17,7 @@ Content/*
 
 # Our Custom Assets
 !Content/BotsTable.umap
+!Content/JetBot-v3v22.fbx
 
 Config/CarlaSettings.ini
 Config/DefaultEditor.ini
